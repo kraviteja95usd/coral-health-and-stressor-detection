@@ -1,7 +1,7 @@
 # Coral Health and Stressor Detection
 
-**AAI-590 Capstone Project --- University of San Diego**
-**Project Status:** Completed
+- **AAI-590 Capstone Project --- University of San Diego**
+- **Project Status:** Completed
 
 ## Project Title
 
